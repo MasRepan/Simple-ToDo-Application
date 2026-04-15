@@ -1,12 +1,12 @@
 # Simple ToDo List
 Aplikasi ToDo List sederhana berbasis HTML, CSS, dan JavaScript murni (tanpa framework) untuk menambah dan menghapus daftar tugas harian.
-## Preview Fitur
+## Fitur
 - Menambahkan todo baru dengan teks tugas dan tanggal.
 - Validasi input agar todo dan tanggal tidak kosong.
 - Menampilkan daftar todo secara dinamis.
 - Menghapus seluruh todo dengan tombol **Delete All**.
 - Tampilan UI ringan dengan kombinasi CSS custom dan Tailwind CSS (CDN).
-## Teknologi yang Digunakan
+## Tech Stack
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
